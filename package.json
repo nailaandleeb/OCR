@@ -1,0 +1,26 @@
+{
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "bcrypt-nodejs": "*",
+    "body-parser": "*",
+    "dv": "*",
+    "ee-first": "*",
+    "express": "4.0.0",
+    "express-resource": "*",
+    "fs": "*",
+    "fv": "*",
+    "html-pdf": "1.4.0",
+    "inherits": "*",
+    "method-override": "*",
+    "ms": "*",
+    "multer": "^1.1.0",
+    "phantomjs-pdf": "*",
+    "qrcode-npm": "0.0.3",
+    "sails-mysql": "*",
+    "underscore": "*",
+    "unpipe": "*",
+    "waterline": "*"
+  }
+}
